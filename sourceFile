@@ -1,0 +1,7 @@
+if(a>b){
+printf("launch website");
+}
+else
+{
+printf("end the website");
+}
